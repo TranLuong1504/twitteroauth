@@ -1,5 +1,5 @@
 {
-  "name": "abraham/twitteroauth",
+  "name": "workable/twitteroauth",
   "type": "library",
   "description": "The most popular PHP library for use with the Twitter OAuth REST API.",
   "keywords": [
@@ -15,15 +15,13 @@
   "homepage": "https://twitteroauth.com",
   "authors": [
     {
-      "name": "Abraham Williams",
-      "email": "abraham@abrah.am",
-      "homepage": "https://abrah.am",
-      "role": "Developer"
+      "name": "Tran Luong",
+      "email": "luongloan1504@gmail.com"
     }
   ],
   "support": {
-    "source": "https://github.com/abraham/twitteroauth",
-    "issues": "https://github.com/abraham/twitteroauth/issues"
+    "source": "https://github.com/TranLuong1504/twitteroauth",
+    "issues": "https://github.com/TranLuong1504/twitteroauth/issues"
   },
   "repositories": [
     {
